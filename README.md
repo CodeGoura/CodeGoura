@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **PYTHON,CSS,HTML**
 
-- 📫 How to reach me **codegoura@gmail.com**
+- 📫 How to reach me **codegoura+github@gmail.com**
 
 - 📄 Know about my experiences [https://codegoura.42web.io/](https://codegoura.42web.io/)
 
