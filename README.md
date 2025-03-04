@@ -107,11 +107,6 @@
 
 <h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/codegoura"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codegoura" /></a></p><br><br>
-
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codeGoura&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 <br clear="both">
 ###
 
@@ -122,6 +117,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codeGoura&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codeGoura&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeGoura&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
