@@ -102,4 +102,10 @@
 <h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/codegoura"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codegoura" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codegoura&" alt="codegoura" /></p>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/codeGoura/codeGoura/output/snake.svg" alt="Snake animation" />
+
+###
