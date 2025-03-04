@@ -1,8 +1,9 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
 <h2 align="left">Hi 👋! My name is Gourahari and I'm a Creative Programmer from Hello World </h2>
 <h3 align="left">Infinite Creativity, One Line of Code</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codegoura" alt="codegoura" /></a> </p>
-
+### **Trophy**:
+  <img src="https://github-profile-trophy.vercel.app?username=codeGoura&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+###
 - 🔭 I’m currently working on **GUI GAME**
 
 - 🌱 I’m currently learning **JS, GAME DEV**
