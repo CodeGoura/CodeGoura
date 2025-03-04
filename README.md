@@ -101,15 +101,11 @@
 
 <h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/codegoura"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codegoura" /></a></p><br><br>
-###
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=codeGoura&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codeGoura&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<div align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codeGoura&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/codeGoura/codeGoura/output/snake.svg" alt="Snake animation" />
 
-###
