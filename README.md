@@ -15,10 +15,10 @@
 ### 🚀 About Me
 - 🔭 I’m currently working on **GUI GAME**
 - 🌱 I’m currently learning **JS, GAME DEV**
-- 👯 I’m looking to collaborate on **CALCULATOR APP**
-- 🤝 I’m looking for help with **CALCULATOR APP**
+- 👯 I’m looking to collaborate on **Music APP**
+- 🤝 I’m looking for help with **Music APP**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/CodeGoura)
-- 💬 Ask me about **PYTHON, CSS, HTML**
+- 💬 Ask me about **PYTHON, CSS, HTML, JS, **
 - 📫 Reach me at **codegoura+github@gmail.com**
 - 📄 Know more about me at [My Portfolio](https://codegoura.42web.io/)
 - ⚡ Fun fact: **I THINK I AM SILENT**
