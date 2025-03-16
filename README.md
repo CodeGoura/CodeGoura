@@ -36,7 +36,7 @@
   <a href="https://discord.gg/qSFKx2Z5fX" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://telegram.o" target="_blank">
+  <a href="https://t.me/codegoura" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://www.facebook.com/codegoura/" target="_blank">
